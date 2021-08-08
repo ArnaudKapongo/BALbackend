@@ -1,0 +1,60 @@
+{
+  "books":  [
+    {   
+    "id": 1,
+    "name": "Le Seigneur des anneaux le retour du roi",
+    "gain": 347,
+    "paper":28 ,
+    "images":"https://images.epagine.fr/149/9782075134149_1_75.jpg"
+    },
+    {   
+    "id": 2,
+    "name": "Game Of Thrones",
+    "gain": 769,
+    "paper":34,
+    "images":"https://images-na.ssl-images-amazon.com/images/I/81q1AybR-ZL.jpg"
+    },
+    {   
+    "id": 3,
+    "name": "Dark Fantasy",
+    "gain": 150,
+    "paper": 4,
+    "images":"https://images-na.ssl-images-amazon.com/images/I/51F+vzbwf9L._SX258_BO1,204,203,200_.jpg"
+    },
+    {   
+    "id":4,
+    "name": "Crown of the Fae King",
+    "gain":210,
+    "paper":6,
+    "images":"https://i.pinimg.com/236x/c2/05/9c/c2059c2d757166e322159df152b264e7.jpg"
+    },
+    {   
+    "id":5,
+    "name": "Monstress",
+    "gain":4,
+    "paper":8,
+    "images":"https://www.lagrandeparade.com/images/bd/monstressT1.jpg"
+    },
+    {   
+    "id":6,
+    "name": "Lilith's Hex",
+    "gain":25,
+    "paper":9,
+    "images":"https://i.pinimg.com/236x/64/55/bf/6455bf51e375895c62a3290f91a060ee.jpg"
+    },
+    {   
+    "id":7,
+    "name": "L'univers d'Adrian Smith",
+    "gain":768,
+    "paper":15,
+    "images":"https://images-na.ssl-images-amazon.com/images/I/51PtJsqBcUL._SX367_BO1,204,203,200_.jpg"
+    },
+    {   
+    "id":8,
+    "name": "La compagnie noire",
+    "gain":910,
+    "paper":19,
+    "images":"https://static.fnac-static.com/multimedia/Images/FD/Comete/131012/CCP_IMG_ORIGINAL/1714335.jpg"
+    }
+    ]  
+}
