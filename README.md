@@ -1,13 +1,13 @@
 # BALbackend
- Avant de démarrer l'application Front BALfront il faut
- d'abord lancer le serveur.
+ Before starting the Front BALfront application, you must
+ first start the server.
 
-# Installation du node_modules 
- 1  - Faire un yarn add express\
- 2  - Ensuite lancer la commande yarn start\
- 3  - Démarrage du Json-server \
+# Installation of node_modules
+ 1 - Make a yarn add express \
+ 2 - Then run the command yarn start \
+ 3 - Starting the Json-server 
 
- Json-server récupére le json books.json (Mock) contenant l'ensemble des
- books de notre application
+ Json-server retrieves the json books.json (Mock) containing all the
+ books of our application
 
-### Info complémentaire sur https://github.com/typicode/json-server
+### Additional info at https://github.com/typicode/json-server
